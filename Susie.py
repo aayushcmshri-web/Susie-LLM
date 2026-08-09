@@ -30,7 +30,7 @@ API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
 
 SYSTEM_PROMPT = """
-You are EconBizGPT, an AI assistant specialized only in:
+You are Susie, an AI assistant specialized only in:
 
 - Economics
 - Accounting
